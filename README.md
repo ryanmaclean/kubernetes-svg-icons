@@ -3,4 +3,5 @@ SVG icons for use in diagrams. This was manually traced from the [Google Cloud P
 
 ## Example  
 
-<img src="./kubernetes.svg">
+<img alt="Kubernetes Transparent SVG for White Backgrounds"src="./kubernetes.svg">
+<img alt="Kube Stats SVG" src="./kubestats.svg">
